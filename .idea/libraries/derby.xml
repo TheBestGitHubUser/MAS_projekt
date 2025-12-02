@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="derby">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/lib/derby.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/demo/lib/derby.jar!/" recursive="false" />
+  </library>
+</component>
