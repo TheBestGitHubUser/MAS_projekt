@@ -35,3 +35,6 @@ The application follows a traditional Java web architecture:
 - **Servlets** – handle incoming HTTP requests and business logic  
 - **JSP (JavaServer Pages)** – generate dynamic views  
 - **Apache Derby** – stores application data (products, orders, users)
+
+---
+Detailed documentation is available in: (docs/dokumentation.pdf)
